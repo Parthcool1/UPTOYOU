@@ -1,0 +1,21 @@
+ body {
+                color: white;
+                background: black;
+                font-family: 'Sniglet',cursive;
+            }
+            button {
+                font-family: 'Sniglet',cursive;
+                border:none;
+                background:#2196F3;
+                outline:none;
+            }
+firstbox {
+ font-family: 'Sniglet',cursive;
+ width: 5px solid white;
+ border:25px;
+ padding:25px;
+ width:80px;
+ position: absolute;
+ left: 780px;
+ top: 40px;
+}

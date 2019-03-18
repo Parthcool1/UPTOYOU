@@ -12,5 +12,4 @@ function Game () {
 
 var game = new Game();
 
-var box = new game.Box('These are the instructions');
-var box = new game.Box('WASD to move around');
+var box = new game.Box('Instructions...');

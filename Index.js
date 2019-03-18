@@ -1,4 +1,4 @@
-("#play").click(()=>{
+$("#play").click(()=>{
   $("#home").hide();
   $("#game").show();
 });

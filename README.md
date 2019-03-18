@@ -1,2 +1,3 @@
-# The World is Counting on you!
-Something bad has happend. Now we need your help to save the world
+#UPTOYOU
+Something bad has happend. Now it's up to you...
+To save the world
